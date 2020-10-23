@@ -1,6 +1,7 @@
 <h1 align="center">#About#</h1>
 
-![20200808_160757](https://user-images.githubusercontent.com/64999484/89707580-4f2c2580-d991-11ea-8960-3c6f9e46765f.png)
+![20200808_160757](https:https://raw.githubusercontent.com/Azim-vau/Azim-vau/main/tenor.gif)
+
 
 <i><b># Follow Me</b></i> <br>
 
