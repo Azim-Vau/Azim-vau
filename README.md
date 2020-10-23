@@ -15,3 +15,8 @@
 
 
 ![20200808_160757](https://giffiles.alphacoders.com/120/120248.gif)
+
+
+<p align="center">
+<i> <b> I FUCK YOUR SYSTEM  </b> </i>
+</p>
