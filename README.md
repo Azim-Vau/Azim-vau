@@ -10,5 +10,5 @@
 
 <h1 align="center">I AM AZIM MAHMUD </h1>
 <p align="center">
-      BLACK ANONYMOUS BD
+     <i> <b> BLACK ANONYMOUS BD </b> </i>
 </p>
