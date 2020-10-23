@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">I AM AZIM MAHMUD </h1>
+<h1 align="center"> AZIM </h1>
 <p align="center">
      <i> <b> BLACK ANONYMOUS BD </b> </i>
 </p>
