@@ -2,9 +2,7 @@
 ### <h4 align="center">< Dont forget follow my github /></h4>
 
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/Azim-vau/Azim-vau/main/tenor.gif" width="640" title="Menu" alt="Menu">
-</p>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&theme=radical)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Azim-vau&repo=pro-cracker&show_icons=true&theme=radical)](https://github.com/Azim-vau/pro-cracker)<br>
