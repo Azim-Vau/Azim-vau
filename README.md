@@ -4,7 +4,7 @@
 
 
 !## Github Stats
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&theme=radical)<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&theme=radical)<br>
 ## Reporstory
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Azim-vau&repo=error&show_icons=true&theme=radical)](https://github.com/Azim-vau/error)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Azim-vau&repo=pro-cracker&show_icons=true&theme=radical)](https://github.com/Azim-vau/pro-cracker)<br>
