@@ -25,10 +25,9 @@
      <i> <b> BLACK ANONYMOUS </b> </i>
 </p>
 
-
-![20200808_160757](https://giffiles.alphacoders.com/120/120248.gif)
-
-
+<p align="center">
+<img src="https://giffiles.alphacoders.com/120/120248.gif">
+</p>
 <p align="center">
 <i> <b> I FUCK YOUR SYSTEM  </b> </i>
 </p>
