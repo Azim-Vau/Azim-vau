@@ -1,9 +1,9 @@
 ### <h4 align="center">🔰 Wellcome to my github 🔰</h4>
 ### <h4 align="center">< Dont forget follow my github /></h4>
 
-
+<p align="center">
 ![20200808_160757](https://raw.githubusercontent.com/Azim-vau/Azim-vau/main/tenor.gif)
-
+</p>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&theme=radical)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Azim-vau&repo=pro-cracker&show_icons=true&theme=radical)](https://github.com/Azim-vau/pro-cracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Azim-vau&repo=NBF&show_icons=true&theme=radical)](https://github.com/Azim-vau/NBF)
