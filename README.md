@@ -23,13 +23,3 @@
 
 
 <h1 align="center"> AZIM-VAU </h1>
-<p align="center">
-     <i> <b> BLACK ANONYMOUS </b> </i>
-</p>
-
-<p align="center">
-<img src="https://giffiles.alphacoders.com/120/120248.gif">
-</p>
-<p align="center">
-<i> <b> I FUCK YOUR SYSTEM  </b> </i>
-</p>
