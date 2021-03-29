@@ -14,7 +14,7 @@
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-vau&langs_count=8&show_icons=true&theme=radical)](https://github.com/Azim-vau)<br><br>
 <div align="center">
-<b>📱 Social Media 📱</b>
+<h2><b>📱 Social Media 📱</h2></b>
 </div>
 
 <div align="center">
