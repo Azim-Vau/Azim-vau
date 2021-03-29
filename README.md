@@ -13,8 +13,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Azim-vau&repo=hack&show_icons=true&theme=radical)](https://github.com/Azim-vau/hack)</br>
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-vau&langs_count=8&show_icons=true&theme=radical)](https://github.com/Azim-vau)<br><br>
-
+<div align="center">
 ### 📱 Social Media 📱
+</div>
 
 <div align="center">
 
