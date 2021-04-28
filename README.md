@@ -19,17 +19,19 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <h2>&quot;~ANONYMOUS~&quot;</h2>
 </div> <br>
 
-- [x] CSS
-  ```css
+- [x] PHP
+  ```php
 
-    *{
+   <!DOCTYPE html>
+  <html>
+  <body>
 
-    margin: 0;
-    padding: 0;
-    font-family: arial;
-    box-sizing: border-box;
+  <?php
+  echo "My first PHP script!";
+  ?>
 
-    }
+  </body>
+  </html>
 
   ```
 
