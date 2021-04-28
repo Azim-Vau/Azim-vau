@@ -19,10 +19,9 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 <div align="center">
 
- [![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau) [![Facebook](https://img.shields.io/badge/Facebook-MAHMUD--AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/azimmahmudofficial) [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)
+[![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau) [![Facebook](https://img.shields.io/badge/Facebook-MAHMUD--AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/azimmahmudofficial) [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)
+
 </div>
-
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Azim-vau&layout=compact&theme=chartreuse-dark" />
