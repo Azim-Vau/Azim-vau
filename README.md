@@ -8,12 +8,9 @@
 <a href="https://t.me/mrerror69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
 <a href="https://www.facebook.com/azimmahmudofficial" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MrError69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
-
-<div align="center">
   
 ____Programming And Memes____
 
-</div>
 Want to contact <b>Mr.Error</b> ? <br>
 CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
