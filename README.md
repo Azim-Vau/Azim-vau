@@ -28,3 +28,8 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Azim-vau&layout=compact&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Azim-Vau&repo=Crack-Pro&theme=chartreuse-dark" /> <br>
 
+<br><br>
+
+<div align="center">
+  <h1> THANKS FOR VISITING MY PROFILE </h1>
+</div>
