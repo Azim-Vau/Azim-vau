@@ -27,7 +27,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   <body>
 
   <?php
-  echo "My first PHP script!";
+  echo "Hello World...!";
   ?>
 
   </body>
@@ -39,6 +39,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   ```python
   #!usr/bin/python
   #-*-coding: utf-8-*-
+  
   print ("Hello World...!")
   ```
 
