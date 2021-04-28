@@ -34,7 +34,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   ```
 
 - [x] python
-  ```
+  ```python
   #!usr/bin/python
   #-*-coding: utf-8-*-
   print ("Hello World...!")
