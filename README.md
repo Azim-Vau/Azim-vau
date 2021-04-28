@@ -19,6 +19,19 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <h2>&quot;~ANONYMOUS~&quot;</h2>
 </div> <br>
 
+- [x] CSS
+  ```css
+
+    *{
+
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    box-sizing: border-box;
+
+    }
+
+  ```
 
 - [x] python
   ```
