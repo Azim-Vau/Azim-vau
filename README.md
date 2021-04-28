@@ -22,7 +22,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 - [x] PHP
   ```php
 
-   <!DOCTYPE html>
+  <!DOCTYPE html>
   <html>
   <body>
 
