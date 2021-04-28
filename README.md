@@ -15,7 +15,7 @@ ____Programming And Memes____
 
 </div>
 Want to contact <b>Mr.Error</b> ? <br>
-<b>CONTACT </b> : errorazim@gmail.com  <br> <br>
+CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 <div align="center">
 
