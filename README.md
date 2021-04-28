@@ -6,7 +6,7 @@
   * MY SOCIAL MEDIA : <br>
 <a href="https://Instagram.com/azimmahmud143"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="20" height="20"></a> 
 <a href="https://wa.me/=8801878037096?text=Hello+Mr.+Error"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/azimmahmudofficial"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="20" height="20"></a><a href="https://youtube.com/MrError69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="20" height="20"></a> 
+<a href="https://www.facebook.com/azimmahmudofficial"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="20" height="20"></a><a href="https://youtube.com/MrError69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube_logo.jpg" alt="alt text" width="20" height="20"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
 _Pogramming And Memes_
