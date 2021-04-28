@@ -11,7 +11,7 @@
   
 ____Programming And Memes____
 
-Want to contact <a href="https://Instagram.com/azimmahmud143"><b>Mr. Error </a></br> ?
+Want to contact <a href="https://Instagram.com/azimmahmud143"><b>Mr. Error </a> ?</br>
 CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 <div align="center">
