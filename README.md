@@ -19,6 +19,15 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <h2>&quot;~ANONYMOUS~&quot;</h2>
 </div> <br>
 
+
+- [x] python
+  ```
+  #!usr/bin/python
+  #-*-coding: utf-8-*-
+  print ("Hello World...!")
+  ```
+
+
 <div align="center">
 
 [![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau) [![Facebook](https://img.shields.io/badge/Facebook-MAHMUD--AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/azimmahmudofficial) [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)
