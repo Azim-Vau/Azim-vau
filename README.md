@@ -18,7 +18,16 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <div align="center">
 <h2>&quot;~ANONYMOUS~&quot;</h2>
 </div> <br>
-
+  
+  
+  
+- [x] python
+  ```python
+  #!usr/bin/python
+  #-*-coding: utf-8-*-
+  
+  print ("Hello World...!")
+  ```
 - [x] php
   ```php
 
@@ -33,14 +42,6 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   </body>
   </html>
 
-  ```
-
-- [x] python
-  ```python
-  #!usr/bin/python
-  #-*-coding: utf-8-*-
-  
-  print ("Hello World...!")
   ```
 
 
