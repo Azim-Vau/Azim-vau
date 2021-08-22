@@ -16,7 +16,7 @@ Want to contact <a href="https://github.com/Azim-vau"><b>Mr. Error </a> ?</br><b
 CONTACT : <i>errorazim@gmail.com</i>  <br> <br> 
 
 <div align="center">
-<h2>&quot;~ANONYMOUS~&quot;</h2>
+<h2>&quot;--ANONYMOUS--&quot;</h2>
 </div> <br>
   
   
