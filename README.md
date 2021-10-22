@@ -15,6 +15,7 @@ Want to contact <a href="https://github.com/Azim-vau"><b>Mr. Error </a> ?</br><b
 <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
 CONTACT : <i>errorazim@gmail.com</i>  <br> <br> 
 
+
 <div align="center">
 <h2>&quot;--ANONYMOUS--&quot;</h2>
 </div> <br>
@@ -30,9 +31,9 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   ```
 
 <div align="center" width="50"> 
-</div> 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+felow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
+</div>
 
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+felow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
 #### Profile Visits:👇
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=azim-vau)
