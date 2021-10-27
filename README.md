@@ -34,9 +34,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 </div>
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+felow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
-#### Profile Visits:👇
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=azim-vau)
 
 <div align="center">
 
