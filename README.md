@@ -27,7 +27,10 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   #!usr/bin/python
   #-*-coding: utf-8-*-
   
-  print ("Hello World...!")
+  def main():
+      print("I LOVE PYTHON")
+
+  main()
   ```
 
 <div align="center" width="50"> 
