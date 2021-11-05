@@ -30,12 +30,5 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 
 <div align="center">
-
-[![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau) [![Facebook](https://img.shields.io/badge/Facebook-MAHMUD--AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/azimmahmudofficial) [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)
-
-</div>
-
-
-<div align="center">
   <h1> THANKS FOR VISITING MY PROFILE </h1>
 </div>
