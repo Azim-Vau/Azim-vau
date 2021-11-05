@@ -22,16 +22,6 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   
   
   
-- [x] python
-  ```python
-  #!usr/bin/python
-  #-*-coding: utf-8-*-
-  
-  def main():
-      print("I LOVE PYTHON")
-
-  main()
-  ```
 
 <div align="center" width="50"> 
 </div>
@@ -45,11 +35,6 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Azim-vau&layout=compact&theme=chartreuse-dark" /> <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Azim-Vau&repo=Crack-Pro&theme=chartreuse-dark" /> <br>
-
-<br><br>
 
 <div align="center">
   <h1> THANKS FOR VISITING MY PROFILE </h1>
