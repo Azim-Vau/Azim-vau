@@ -30,5 +30,5 @@ CONTACT : <p>errorazim@gmail.com</p>  <br> <br>
 
 
 <div align="center">
-  <h1> THANKS FOR VISITING MY PROFILE </h1>
+  <h3> THANKS FOR VISIT </h3>
 </div>
