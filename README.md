@@ -17,7 +17,7 @@ CONTACT : <p>errorazim@gmail.com</p>  <br> <br>
 
 
 <div align="center">
-<h2> <\> MR. ERROR <\> </h2>
+<h2> MR. ERROR IS HERE </h2>
 </div> <br>
   
   
